@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+
+
+
+*{
+  background-color: rgba(211, 211, 211, 0.05);
+  margin: 30px 30px;
+  box-sizing: border-box;
+  font-family: 'Orbitron', Copperplate, fantasy;
+  align-content: center;
+  justify-content: center;
+  
+  
+}
+
+body {
+  position: relative;
+  background-color: hsl(120 89% 73%)hidden;
+  border: 3px gray solid;
+  height:500px;
+  width: 700px;
+  margin: 20px 400px 10px;
+  padding: 18px 50px;
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.820);
+  border-radius: 28px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  background-image: url("https://tse3.mm.bing.net/th?id=OIP.kLDwiDt_HEIw-ZA0mdhWJQHaHa");
+  
+}
+
+
+h1 {
+  text-align: center !important;
+  font-size: 80px;
+  
+}
+
+.enter {
+  display: block;
+  position: relative;
+  padding: 20px 60px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  margin: 80px 40px;
+  
+}
+
+#submit,
+#reset {
+  align-content: space-evenly;
+  position: relative;
+  bottom: 50px;
+  display: inline-block;
+  background-color: #ffffff
+    transition-property: backgound-color;
+  transition-duration: 1s;
+  font-weight: 600;
+  width: 200px;
+  letter-spacing: .6em;
+  border-radius: 2px;
+  cursor: pointer;
+  
+}
+
+#submit:hover {
+  background-color: #ff4193;
+  
+}
+
+#reset:hover {
+  background-color: #00ffff;
+}
+
+
+.forgot {
+  position: relative;
+  font-size: 14px;
+  bottom: 300px;
+  left: 200px
+  
+}
+
+a:link {
+    color: #22bb22;
+}
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: black;
+}
+
+
+
+.create p {
+    position: relative;
+    bottom: 150px;
+
+}
+
+.create a {
+  display: flex;
+  justify-content: center;
+}
