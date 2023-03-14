@@ -1,6 +1,6 @@
-# login.html
+# login.html with main.css
 
-Thank you for your interest!
+Thank you for your interest in my form pages!
 
 This is a non-responsive static web page (my first!).
 
@@ -11,6 +11,8 @@ Only HTML & CSS.
 
 
 
-#create-account.html
+#create-account.html with account.css
 
-Is a responsive static page creaed in connection to the original static non-responsive page.  Tested in both orientations and format sizes.
+Is a responsive static page created in connection to the original static non-responsive page.  Tested in both orientations and format sizes.
+
+Only in HTML & CSS.
